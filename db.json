@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Prakash",
+      "title": "Post 1"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "author": "Prakash",
+      "title": "Blog 1"
+    }
+  ]
+}
