@@ -13,5 +13,7 @@
       "title": "Blog 1"
     }
   ],
-  "books": []
+  "books": [],
+  "cars":[],
+  "wishlisted_cars":[]
 }
